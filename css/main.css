@@ -51,11 +51,32 @@ nav ul li {
 h1 {
     font-family: 'Cabin Sketch', cursive;
     font-weight: 700;
-    font-size: 3em;
+    font-size: 4em;
+    margin: 30px 0 10px 0;
+}
+
+h2 {
+    font-family: 'Maitree', serif;
+    font-weight: 500;
+}
+
+h3 {
+    font-family: 'Maitree', serif;
+    font-weight: 500;
     margin: 10px;
 }
 
-img {
+li {
+    font-family: 'Maitree', serif;
+    font-weight: 200;
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+}
+
+#forside img {
     max-width: 300px;
 }
 
@@ -63,4 +84,12 @@ footer {
     font-family: 'Maitree', serif;
     font-weight: 200;
     font-size: 0.8em;
+}
+
+span {
+    font-weight: bold;
+}
+
+#interviews img {
+    max-width: 500px;
 }

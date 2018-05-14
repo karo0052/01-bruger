@@ -110,3 +110,12 @@ span {
     font-style: italic;
     font-weight: 500;
 }
+
+#kea_experiencemap img {
+    max-width: 1100px;
+}
+
+p {
+    font-family: 'Maitree', serif;
+    font-weight: 200;
+}

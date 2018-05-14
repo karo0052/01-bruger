@@ -63,7 +63,7 @@ h2 {
 h3 {
     font-family: 'Maitree', serif;
     font-weight: 500;
-    margin: 10px;
+    margin: 10px 0;
 }
 
 li {
@@ -92,4 +92,21 @@ span {
 
 #interviews img {
     max-width: 500px;
+}
+
+#experiencemap img {
+    max-width: 550px;
+}
+
+#storyboard img {
+    max-width: 600px;
+}
+
+#bmc img {
+    max-width: 1000px;
+}
+
+#bmc .kursiv {
+    font-style: italic;
+    font-weight: 500;
 }
